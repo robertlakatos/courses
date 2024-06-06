@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Colab
+## Colab
 
 1.  [Introduction](https://colab.research.google.com/drive/1YQ_knmayDKmjcPlbNKf-YQ0jWhVUf4k3?usp=sharing)
 2.  [Prompting](https://colab.research.google.com/drive/1PYxgrxd6rD7cn1jENHVkHWTbjnVN3EW-?usp=sharing), [(WR)](https://colab.research.google.com/drive/1tvi1Ua4VfkYN3jlrm8SjxGG1KiDDT9eC?usp=sharing)
@@ -17,13 +17,12 @@ layout: default
 11. [YOLO v8 Training with Annotated Dataset](https://colab.research.google.com/drive/1no4_hqUyQRmeQY1Thi3mQayXFcF6vY1R?usp=sharing), [(WR)](https://colab.research.google.com/drive/1CXfmDSVruhHv6TB-AVaJJumgL07y3SKB?usp=sharing)
 12. [Conclusion](https://colab.research.google.com/drive/1JO-b_GI96bWIDmwg81MMe_j2ppQnqoVa?usp=sharing)
 
-# Github
+## Github
 
 ```bash
 git clone https://<skey>@github.com/robertlakatos/promptengineering.git
 ```
 
-# Licens
+## Licens
 
-## <FONT COLOR="red">The notebooks are licensed under the Creative [Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/). This means that you can freely copy, distribute, and modify the notebook by authors ([Balázs Harangi](https://inf.unideb.hu/dr-harangi-balazs), [András Hajdu](https://inf.unideb.hu/munkatars/4250), and [Róbert Lakatos](https://inf.unideb.hu/lakatos-robert-tanarseged)), but not for commercial purposes. Additionally, if you modify the notebook, you must cite them as the original creators and share the modified version under the same terms.
-</FONT>
+### <FONT COLOR="red">The notebooks are licensed under the Creative [Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/). This means that you can freely copy, distribute, and modify the notebook by authors ([Balázs Harangi](https://inf.unideb.hu/dr-harangi-balazs), [András Hajdu](https://inf.unideb.hu/munkatars/4250), and [Róbert Lakatos](https://inf.unideb.hu/lakatos-robert-tanarseged)), but not for commercial purposes. Additionally, if you modify the notebook, you must cite them as the original creators and share the modified version under the same terms.</FONT>
