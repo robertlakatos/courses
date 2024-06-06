@@ -25,6 +25,6 @@ layout: default
 git clone https://<skey>@github.com/robertlakatos/promptengineering.git
 ```
 
-## Licens
+## License
 
 The notebooks are licensed under the Creative [Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/). This means that you can freely copy, distribute, and modify the notebook by authors ([Balázs Harangi](https://inf.unideb.hu/dr-harangi-balazs), [András Hajdu](https://inf.unideb.hu/munkatars/4250), and [Róbert Lakatos](https://inf.unideb.hu/lakatos-robert-tanarseged)), but not for commercial purposes. Additionally, if you modify the notebook, you must cite them as the original creators and share the modified version under the same terms.
